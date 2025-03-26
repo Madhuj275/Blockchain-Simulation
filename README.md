@@ -101,7 +101,10 @@ docker-compose exec backend python manage.py createsuperuser
 ```
 
 
-![image](https://github.com/user-attachments/assets/d1a4a11f-923b-45ba-b9f9-dee09980144c)
+
+
+![image](https://github.com/user-attachments/assets/94026aee-3457-4365-9a87-47b8bcfb0b50)
+
 
 
 
