@@ -1,0 +1,80 @@
+# ---- React (Frontend) ----
+# Node modules and build artifacts
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.log
+*.lock
+
+# Cache and dependency files
+.cache/
+*.bak
+*.tmp
+
+# Testing and coverage
+coverage/
+*.test.*
+jest.config.js
+cypress/
+
+# ---- Django (Backend) ----
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+db.sqlite3
+*.log
+
+# Django environment and settings
+.env
+.env.*.local
+*.secret
+*.json
+*.pem
+*.key
+
+# Migrations
+migrations/
+*.log
+
+# Virtual environments
+venv/
+env/
+*.venv
+
+# Static and media files
+staticfiles/
+media/
+
+# Django cache and session files
+*.cache
+*.session
+
+# ---- Global Git settings ----
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# Misc
+*.bak
+*.swp
+*.swo
+*.swn
+*.~undo-tree~
